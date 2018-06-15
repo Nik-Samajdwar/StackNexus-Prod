@@ -1,0 +1,10 @@
+*** NEW CASE ASSIGNMENT NOTIFICATION ***  
+
+The following case has been assigned to you.  
+Case ID: {!Case.CaseNumber}
+Subject: {!Case.Subject}
+Priority: {!Case.Priority}
+Project: {!Case.Project__c}
+Expected Close Date: {!Case.Expected_Close_Date__c}
+
+Click on the link to access the case directly:  {!Case.Link}
